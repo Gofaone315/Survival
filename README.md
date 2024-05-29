@@ -18,7 +18,7 @@ Survive is a simple browser-based game where you control a character to survive 
 
 ## Credits
 
-- Developed by [Gofaone Tlalang]
+- Developed by Gofaone Tlalang
 
 ## License
 
